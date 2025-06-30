@@ -1,0 +1,1 @@
+[![CI/CD Starter](https://github.com/boby0012/ci_cd/actions/workflows/ci.yml/badge.svg)](https://github.com/boby0012/ci_cd/actions/workflows/ci.yml)
