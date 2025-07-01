@@ -28,6 +28,8 @@ jobs:
         host: localhost
         username: devopsuser
         key: ${{ secrets.SSH_PRIVATE_KEY }}
+        port: 22
+        debug: true
         script: |
           cd ~/app-deploy-folder
           rm -rf ./*
