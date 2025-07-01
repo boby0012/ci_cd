@@ -34,3 +34,4 @@ jobs:
           cd ~/app-deploy-folder
           rm -rf ./*
           echo "Copy source code..."
+          
